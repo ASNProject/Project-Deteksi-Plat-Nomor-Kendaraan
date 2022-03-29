@@ -4,8 +4,8 @@ https://github.com/amifth/knn-character-recognition.git<br />
 
 ##### Fitur
 - Ambil gambar dengan Kamera Webcam
-- Deteksi Plat otomatis
-- Tampilan GUI  
+- Deteksi Plat Nomor Kendaraan otomatis
+- Tampilan GUI sederhana
 
 
 ##### Screenshoot 
